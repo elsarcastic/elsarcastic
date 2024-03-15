@@ -2,7 +2,7 @@
 
 ## Summary || Sumário
 
-- [Português](https://github.com/elsarcastic/elsarcastic/edit/main/README.md#olá-aceita-um-café-)
+- [Português](#olá-aceita-um-café-)
 - [English](#hello-can-i-get-you-a-coffee-)
 
 
